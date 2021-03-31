@@ -1,0 +1,12 @@
+systemctl status mysqld.service
+systemctl status mysqld.service
+
+
+Pa
+
+
+INSERT INTO t_aluno(rm_aluno, nm_aluno, dt_nascimento) VALUES ("PF0841", "Menk", "2000-12-01");
+INSERT INTO t_aluno(rm_aluno, nm_aluno, dt_nascimento) VALUES ("RM1234", "Salvio", "2010-10-07");
+INSERT INTO t_aluno(rm_aluno, nm_aluno, dt_nascimento) VALUES ("RM2222", "Guilherme", "2008-09-13");
+INSERT INTO t_aluno(rm_aluno, nm_aluno, dt_nascimento) VALUES ("RM1111", "Gabriel", "2005-01-20");
+INSERT INTO t_aluno(rm_aluno, nm_aluno, dt_nascimento) VALUES ("RM9876", "Tais", "2010-01-16");
